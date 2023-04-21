@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A901732-AD01-441E-8F7E-C0789FC9756E}"
+	ProjectSection(SolutionItems) = preProject
+		C:\Users\User\Desktop\New folder\Video\animatetext.css = C:\Users\User\Desktop\New folder\Video\animatetext.css
+		Index.html = Index.html
+		MyCss.css = MyCss.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C09F3BD-AEBC-46A7-B2A9-E4BD2B154D27}
+	EndGlobalSection
+EndGlobal
